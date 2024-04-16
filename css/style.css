@@ -11,7 +11,7 @@ footer{
     color: white !important;
 }
 .img-car{
-    max-height:600px;
+    max: height 50em;;
 
 }
 .divisao{
@@ -22,3 +22,10 @@ footer{
     margin-bottom: 5em !important;
 
 }
+
+.carousel-caption{
+    background-color: rgba(0,0,0,0.534) !important;
+}
+.imagenslogo{
+    max-height:33em;
+    }
