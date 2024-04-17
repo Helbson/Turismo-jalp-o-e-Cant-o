@@ -1,31 +1,57 @@
-.nav-top{
-    background-color: rgb(47,47,114)!important;
+.nav-top {
+    background-color: rgb(47, 47, 114) !important;
 
 }
-.nav-link{
+
+.nav-link {
     color: white !important
 }
-footer{
-    background-color: rgb(47,47, 114) !important;
+
+footer {
+    background-color: rgb(47, 47, 114) !important;
     text-align: center !important;
     color: white !important;
 }
-.img-car{
-    max: height 50em;;
+
+.img-car {
+    max-height:  50em !important;
+    
 
 }
-.divisao{
-    background-color:rgb(47,47, 114) !important;
+
+.divisao {
+    background-color: rgb(47, 47, 114) !important;
     text-align: center !important;
     color: white !important;
     padding: 3em !important;
-    margin-bottom: 5em !important;
+
 
 }
 
-.carousel-caption{
-    background-color: rgba(0,0,0,0.534) !important;
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.534) !important;
 }
-.imagenslogo{
-    max-height:33em;
-    }
+
+.imagenslogo {
+    max-height: 33em;
+}
+
+.sec-pacotes {
+    margin-left: 10% !important;
+    margin-right: 10%;
+    justify-content: center !important;
+    margin: 1% !important;
+
+
+}
+
+.card{
+    padding: 1% !important;
+    margin: 0% 1% 1% 0% !important;
+}
+.card h4{
+    text-align: justify !important;
+}
+.card h4{
+    color:brown !important;
+}
